@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+mundo!;Seja+bem-vindo+ao+meu+GitHub!;Backend+é+a+minha+praia.;TypeScript+é+vida!&center=true&width=440&height=45&color=0fffc2&vCenter=true&size=20" />
+  <img src="[https://readme-typing-svg.demolab.com/?lines=Olá,+mundo!;Seja+bem-vindo+ao+meu+GitHub!;Backend+é+a+minha+praia.;TypeScript+é+vida!&center=true&width=440&height=45&color=0fffc2&vCenter=true&size=20](https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1,+mundo!;Seja+bem-vindo+ao+meu+GitHub!;Backend+%C3%A9+a+minha+praia.;TypeScript+%C3%A9+vida!&center=true&width=440&height=45&color=0fffc2&vCenter=true&size=20)" />
 </p>
 
 ---
